@@ -1,0 +1,44 @@
+19:23:47: Audacity 3.6.1
+19:23:47: Error: Failed to load shared library 'avformat-61.dll' (error 126: Nie można odnaleźć określonego modułu.)
+19:23:47: Error: Failed to load shared library 'avformat-60.dll' (error 126: Nie można odnaleźć określonego modułu.)
+19:23:47: Error: Failed to load shared library 'avformat-59.dll' (error 126: Nie można odnaleźć określonego modułu.)
+19:23:47: Error: Failed to load shared library 'avformat-58.dll' (error 126: Nie można odnaleźć określonego modułu.)
+19:23:47: Error: Failed to load shared library 'avformat-57.dll' (error 126: Nie można odnaleźć określonego modułu.)
+19:23:47: Error: Failed to load shared library 'avformat-55.dll' (error 126: Nie można odnaleźć określonego modułu.)
+19:23:50: Error: Failed to load shared library 'avformat-61.dll' (error 126: Nie można odnaleźć określonego modułu.)
+19:23:50: Error: Failed to load shared library 'avformat-60.dll' (error 126: Nie można odnaleźć określonego modułu.)
+19:23:50: Error: Failed to load shared library 'avformat-59.dll' (error 126: Nie można odnaleźć określonego modułu.)
+19:23:50: Error: Failed to load shared library 'avformat-58.dll' (error 126: Nie można odnaleźć określonego modułu.)
+19:23:50: Error: Failed to load shared library 'avformat-57.dll' (error 126: Nie można odnaleźć określonego modułu.)
+19:23:50: Error: Failed to load shared library 'avformat-55.dll' (error 126: Nie można odnaleźć określonego modułu.)
+19:24:02: Using internal LAME
+19:24:02: Error: Failed to load shared library 'avformat-61.dll' (error 126: Nie można odnaleźć określonego modułu.)
+19:24:02: Error: Failed to load shared library 'avformat-60.dll' (error 126: Nie można odnaleźć określonego modułu.)
+19:24:02: Error: Failed to load shared library 'avformat-59.dll' (error 126: Nie można odnaleźć określonego modułu.)
+19:24:02: Error: Failed to load shared library 'avformat-58.dll' (error 126: Nie można odnaleźć określonego modułu.)
+19:24:02: Error: Failed to load shared library 'avformat-57.dll' (error 126: Nie można odnaleźć określonego modułu.)
+19:24:02: Error: Failed to load shared library 'avformat-55.dll' (error 126: Nie można odnaleźć określonego modułu.)
+19:25:16: Operation 'Chirp' took 0.012000 seconds. Poll was called 1 times and took 0.000001 seconds. Yield was called 0 times and took 0.000000 seconds.
+19:25:33: Operation 'Pre-processing' took 0.000000 seconds. Poll was called 0 times and took 0.000000 seconds. Yield was called 0 times and took 0.000000 seconds.
+19:25:33: Operation 'Paulstretch' took 0.406000 seconds. Poll was called 1383 times and took 0.000044 seconds. Yield was called 0 times and took 0.000000 seconds.
+19:25:33: Operation 'Nyquist Prompt' took 0.000000 seconds. Poll was called 0 times and took 0.000000 seconds. Yield was called 0 times and took 0.000000 seconds.
+19:27:51: File name is C:\Users\Komputer\Downloads\Audio processing\sample_3s .mp3
+19:27:51: Mime type is *
+19:27:51: Opening with libmpg123
+19:27:51: Open(C:\Users\Komputer\Downloads\Audio processing\sample_3s .mp3) succeeded
+19:27:51: Operation 'Importing MP3 files' took 0.012000 seconds. Poll was called 130 times and took 0.000007 seconds. Yield was called 0 times and took 0.000000 seconds.
+19:27:51: Operation 'Music Information Retrieval' took 0.011000 seconds. Poll was called 256 times and took 0.000008 seconds. Yield was called 0 times and took 0.000000 seconds.
+19:28:46: File name is C:\Users\Komputer\Downloads\Audio processing\sample_3s .mp3
+19:28:46: Mime type is *
+19:28:46: Opening with libmpg123
+19:28:46: Open(C:\Users\Komputer\Downloads\Audio processing\sample_3s .mp3) succeeded
+19:28:46: Operation 'Importing MP3 files' took 0.015000 seconds. Poll was called 130 times and took 0.000005 seconds. Yield was called 0 times and took 0.000000 seconds.
+19:28:46: Operation 'Music Information Retrieval' took 0.008000 seconds. Poll was called 256 times and took 0.000008 seconds. Yield was called 0 times and took 0.000000 seconds.
+19:30:16: Operation 'Pre-processing' took 0.000000 seconds. Poll was called 0 times and took 0.000000 seconds. Yield was called 0 times and took 0.000000 seconds.
+19:30:16: Operation 'Paulstretch' took 0.062000 seconds. Poll was called 1461 times and took 0.000047 seconds. Yield was called 0 times and took 0.000000 seconds.
+19:30:16: Operation 'Nyquist Prompt' took 0.000000 seconds. Poll was called 0 times and took 0.000000 seconds. Yield was called 0 times and took 0.000000 seconds.
+19:31:10: Operation 'Pre-processing' took 0.000000 seconds. Poll was called 0 times and took 0.000000 seconds. Yield was called 0 times and took 0.000000 seconds.
+19:31:10: Operation 'Paulstretch_MG' took 0.047000 seconds. Poll was called 533 times and took 0.000020 seconds. Yield was called 0 times and took 0.000000 seconds.
+19:31:10: Operation 'Nyquist Prompt' took 0.000000 seconds. Poll was called 0 times and took 0.000000 seconds. Yield was called 0 times and took 0.000000 seconds.
+19:32:13: Operation 'Pre-processing' took 0.000000 seconds. Poll was called 0 times and took 0.000000 seconds. Yield was called 0 times and took 0.000000 seconds.
+19:32:13: Operation 'Paulstretch' took 0.063000 seconds. Poll was called 1461 times and took 0.000048 seconds. Yield was called 0 times and took 0.000000 seconds.
